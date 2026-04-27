@@ -1,19 +1,8 @@
-# 🎈 Blank app template
-
-A simple Streamlit app template for you to modify!
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
-
-### How to run it on your own machine
-
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+/**
+ * Caffeine Tracker App
+ * 
+ * This application is designed to track and display the amount of caffeine remaining in your system.
+ * It calculates the caffeine levels based on the initial amount of caffeine consumed and the average half-life of caffeine in the human body.
+ * The half-life of caffeine is approximately 3-7 hours, meaning the amount of caffeine in your system decreases by half every 3-7 hours.
+ * Users can input the amount of caffeine ingested and view how much remains over time, helping to monitor consumption and avoid excessive intake.
+ */
